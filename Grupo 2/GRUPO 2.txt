@@ -1,0 +1,16 @@
+Recomendaciones para el código HTML:
+
+Estructura y organización:
+
+    Semántica HTML: Se recomienda utilizar etiquetas HTML semánticas en lugar de divs genéricos para mejorar la accesibilidad y el significado del código. Por ejemplo, se puede usar <header>, <nav>, <section>, <article>, <aside>, <footer>, etc. en lugar de divs con clases.
+    Organización del CSS: Se recomienda separar el CSS en un archivo independiente (estilos.css) para mejorar la legibilidad y mantenibilidad del código.
+    Comentarios: Se recomienda agregar comentarios al código para explicar su función, especialmente en secciones complejas o difíciles de entender.
+
+Contenido:
+
+    Imágenes: Se recomienda agregar atributos alt a las imágenes para describir su contenido y mejorar la accesibilidad para usuarios con lectores de pantalla.
+    Enlaces: Se recomienda verificar que los enlaces estén escritos correctamente y que apunten a las páginas correctas.
+    Texto: Se recomienda usar un tamaño de fuente adecuado y un contraste de color suficiente para garantizar la legibilidad del texto.
+    
+    
+    NOTA: 70

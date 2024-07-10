@@ -1,0 +1,19 @@
+Recomendaciones para el código HTML:
+
+Estructura y organización:
+
+    Simplificar la estructura: Se puede simplificar la anidación de elementos utilizando solo <section> y los divs anidados para los contenedores de autos. Esto mejora la claridad y legibilidad del código.
+    HTML semántico: Se recomienda usar elementos HTML semánticos como <li> dentro de <ul> para los enlaces de navegación. Además, las etiquetas <a> no deben tener clases adicionales como btn btn-primary ya que no son botones.
+
+Contenido:
+
+    Consistencia en las rutas de archivo: Verifique dos veces las rutas de archivo para sus imágenes y archivos CSS. Hay inconsistencias entre "asets" y "assets".
+    Texto alternativo para imágenes: Agregue atributos alt a sus imágenes que describan el contenido para la accesibilidad.
+    Contenido del pie de página: Considere agregar más información al pie de página, como detalles de contacto o información de derechos de autor.
+
+Código:
+
+    Nombre del archivo CSS: Cambie el nombre de estilo1.css a un nombre más descriptivo que refleje su propósito.
+    Orden de los enlaces: Si bien no es crítico aquí, en general es mejor colocar su hoja de estilo propia (estilo1.css) después de los estilos de Bootstrap para anular cualquier estilo predeterminado de Bootstrap.
+    
+    NOTA: 55
