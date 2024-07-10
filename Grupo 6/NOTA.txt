@@ -1,0 +1,11 @@
+Recomendaciones adicionales:
+
+    Diseño: Se podría mejorar el diseño de la página utilizando una paleta de colores más atractiva y una tipografía más moderna.
+    Interactividad: Se podrían agregar elementos interactivos, como animaciones o videos, para hacer la página más dinámica y atractiva.
+    Accesibilidad: Se podrían mejorar las medidas de accesibilidad, como agregar texto alternativo para todas las imágenes y descripciones para los enlaces.
+    Optimización: Se podría optimizar la página para que cargue más rápido, comprimiendo las imágenes y minificando el código CSS y JavaScript.
+    
+    FALTA EL DISEÑO DE FIGMA.
+    
+    NOTA: 60
+    

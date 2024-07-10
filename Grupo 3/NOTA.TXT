@@ -1,0 +1,21 @@
+Recomendaciones para el código HTML:
+
+Estructura y organización:
+
+    Agrupar secciones: Se recomienda utilizar elementos HTML semánticos como section para agrupar el contenido principal de la página en secciones lógicas. Esto mejora la legibilidad y la organización del código.
+    Uso de encabezados: Se recomienda utilizar encabezados (<h1>, <h2>, <h3>, etc.) para estructurar el contenido de la página y facilitar su lectura.
+    Anidamiento adecuado: El anidamiento actual de divs parece correcto, pero se debe evitar el anidamiento excesivo para mantener la claridad del código.
+
+Contenido:
+
+    Imágenes: Se recomienda agregar texto alternativo (alt) a las imágenes para mejorar la accesibilidad y describir el contenido para usuarios que no pueden verlas.
+    Enlaces: Se recomienda usar un texto descriptivo para los enlaces en lugar de solo el nombre del destino.
+    Texto: Se recomienda usar una jerarquía de encabezados adecuada para estructurar el contenido textual y facilitar su lectura.
+    Espacio en blanco: Se recomienda agregar espacio en blanco (márgenes, padding) entre los elementos para mejorar la legibilidad y la estética de la página.
+
+Código:
+
+    Nombres de archivos: Se recomienda usar nombres de archivos descriptivos para el CSS y JavaScript. Por ejemplo, estilo-principal.css y script.js.
+    Orden de los archivos: Se recomienda cargar los archivos CSS y JavaScript al final del <head> antes del cierre de la etiqueta.
+   
+   NOTA: 78

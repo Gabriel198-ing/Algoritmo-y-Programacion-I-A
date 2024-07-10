@@ -1,0 +1,38 @@
+.h1 {
+    background-color:#4771fa;
+    color: #000000;
+    padding: 30px;
+}
+main {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 20px;
+    padding: 20px;
+}
+.contenido-principal{
+    background-color: #f9f9f9;
+    padding: 10px;
+}
+.publicidad {
+    background-color: #ccc;
+    padding: 10px;
+}
+.h3 {
+    background-color: #829fff;
+    color: #000000;
+    padding: 5px;
+}
+
+.footer {
+    background-color:#4771fa;
+    color: #000000;
+    padding: 5px;
+}
+.body {
+    background-color:#b8c7f8;
+    color: #000000;
+    padding: 0px;
+}
+.font {
+    font-family:'Freestyle Script';
+}

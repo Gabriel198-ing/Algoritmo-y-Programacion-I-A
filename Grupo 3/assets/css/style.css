@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Titan+One&family=Abel&family=Acme&family=Anton&display=swap');
+
+.righteous-regular {
+    font-family: "Righteous", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .abel-regular {
+    font-family: "Abel", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .acme-regular {
+    font-family: "Acme", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+/* Estilos generales */
+body {
+    font-weight: 400;
+    font-size: 18px;
+    font-family: "Abel", sans-serif;
+    padding-top: 80px;
+}
+
+/* Navbar */
+nav {
+    background-color: white;
+    
+}
+
+.navbar-brand img.logo-mini {
+    width: 200px;
+}
+
+.navbar-nav .nav-link {
+    margin-right: 60px;
+    margin-left: 74px;
+    display:flex;
+    justify-content: center;
+}
+
+/* Header */
+header {
+    padding: 40px;
+    background-image: linear-gradient(to bottom, rgba(0, 188, 231, 0.5), rgba(240, 82, 141, 0.7)), url('../img/tumba.jpeg');
+   height: 750px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom 50px right 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenido-principal {
+    font-weight: 900;
+    font-family: "Abel", sans-serif;
+}
+
+.Frase {
+    font-family: "Righteous", sans-serif;
+    color: white;
+    font-size: 50px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.Frase h1, .Frase h2, .Frase h3 {
+    font-size: 1.5rem;
+}
+
+/* Contenido principal */
+.container {
+    max-width: 1200px;
+    background-color: white;
+    color: black;
+    padding: 10px;
+}
+
+.rosita, .enfermedad-de-mrbeast, .Impacto-Legado {
+    font-family: "Abel", sans-serif;
+    border-radius: 20px;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+
+.rosita {
+    background: #f05a91;
+    color: white;
+}
+
+.enfermedad-de-mrbeast {
+    background: rgb(252, 247, 228);
+    color: rgb(0, 0, 0);
+}
+
+.med-title{
+    font-family: "Abel", sans-serif;
+    background: #3aa3f9;
+    border-radius: 20px;
+    padding: 25px;
+    color: white;
+    margin-bottom:20px;
+}
+
+.Impacto-Legado {
+    background: rgb(252, 247, 228);
+    color: rgb(0, 0, 0);
+}
+
+.tituloh3, .impactolegado-titulo {
+    font-weight: 900;
+    color: #3aa3f9;
+    margin-bottom: 10px;
+}
+
+/* Videos */
+.video {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Espacio entre los iframes de video */
+}
+
+.video iframe {
+    width: 100%; /* Ajusta el ancho de los iframes al 100% del contenedor */
+    height: 315px; /* Altura fija para los videos de yutu */
+}
+
+/* Footer */
+footer.bg-pink {
+    background-color: #ff69b4;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.containerfooter {
+    margin-top: 10px; /* Espacio superior */
+}
+
+/* TEAM SEAS */
+#seas{
+    background: #49739b;
+    color: white;
+    font-family: "Abel", sans-serif;
+    border-radius: 20px;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+
+.left {
+    font-weight: 900;
+    text-align: left;
+    color: #ffc400;
+}
+.right {
+    font-weight: 900;
+    text-align: right;
+    color: #ffc400;
+}
+
+.list-group-item {
+    background: #49919b;
+    color: white;
+    font-family: "Abel", sans-serif;
+    border-radius: 20px;
+    padding: 25px;
+    
+}
+
+#header-seas {
+    padding: 40px;
+    background-image: linear-gradient(to bottom, rgba(0, 188, 231, 0.5), rgba(0, 198, 248, 0.7)), url('../img/db91dc4d42b6990da1d2b7b2a39732c6.jpg');
+    height: 750px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom 50px right 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* TEAM tree */
+
+#header-tree {
+    padding: 40px;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(48, 87, 40, 0.7)), url('../img/bosquetree.png');
+    height: 750px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom 50px right 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#trees{
+    background: #499b5b;
+    color: white;
+    font-family: "Abel", sans-serif;
+    border-radius: 20px;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+
+.art-trees {
+    background: #9b8849;
+    color: white;
+    font-family: "Abel", sans-serif;
+    border-radius: 20px;
+    padding: 25px;}
