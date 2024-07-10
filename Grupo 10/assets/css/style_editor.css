@@ -1,0 +1,89 @@
+header{
+    background-image: url(assets/img/tetris_fondo_logo.jpg);
+    background: linear-gradient(rgb(159, 159, 219), rgb(226, 140, 176));
+}
+.caja{
+    text-align: center;
+}
+.imagen{
+    width: 300px;
+    aspect-ratio: 1;
+    background: #333;
+    border-radius: 50%;
+}
+nav{
+    background-color: #444;
+    color: #fff;
+    padding: 10px;
+}
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+nav ul li{
+    display: inline;
+    margin-right: 10px;
+}
+nav ul li a{
+    color: #fff;
+    text-decoration: nome;
+}
+
+.contenido-principal{
+    background-color: #ccc;
+    padding: 10px;
+    border-radius: 25px;
+}
+.publicidad{
+    background-color: #A6F0EB ;
+    padding: 10px;
+    border-radius: 25px;
+}
+.imagen-creador{
+    width: 500px;
+    height: 400px;
+    border-radius: 25px;
+}
+.paisaje{
+    width: 350px;
+    height: 350px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+}
+.tercer-contenido{
+    background-color: #ccc ;
+    padding: 10px;
+    border-radius: 25px;
+}
+.sans{
+    width: 450px;
+    height: 300px;
+    border-radius: 25%;
+}
+.GIF2{
+    width: 450px;
+    height: 300px;
+    border-radius: 25%;
+}
+.contenido-pleistoceno{
+    background-color: #ccc ;
+    padding: 10px;
+    border-radius: 25px;
+}
+.long{
+    width: 900px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+}
+.centrar-imagen{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+

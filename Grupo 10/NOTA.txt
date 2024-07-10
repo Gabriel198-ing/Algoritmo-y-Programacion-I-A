@@ -1,0 +1,23 @@
+Contenido:
+
+    Textos: Revisar la ortografía y gramática de los textos.
+    Imágenes: Agregar atributos alt descriptivos a las imágenes para accesibilidad.
+    Productos: Organizar los productos en categorías y subcategorías para facilitar la navegación.
+    Contacto: Agregar un formulario de contacto con campos para nombre, correo electrónico y mensaje.
+
+Diseño:
+
+    Colores: Considerar usar una paleta de colores más variada para darle más dinamismo a la página.
+    Tipografía: Utilizar una tipografía más legible para los textos largos.
+    Espacio en blanco: Agregar más espacio en blanco entre los elementos para mejorar la legibilidad y la estética.
+    Imágenes: Optimizar las imágenes para reducir el tiempo de carga de la página.
+
+Código:
+
+    Enlaces CSS: Verificar que la ruta del enlace al archivo CSS (assets/css/style.css) sea correcta.
+    Cierre de etiquetas: Cerrar las etiquetas HTML que estén abiertas (</section>, </div>, etc.).
+    Atributos: Agregar atributos id y class a los elementos para facilitar su estilo en CSS.
+    
+    DISEÑO FIGMA?
+    
+    NOTA: 65

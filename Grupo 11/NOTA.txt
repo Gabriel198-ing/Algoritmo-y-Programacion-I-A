@@ -1,0 +1,21 @@
+Estructura:
+
+    Secciones vacías: La última sección del main tiene un título vacío (<h2></h2>). Se debería eliminar o agregar contenido a esa sección.
+    Elemento div sin clase o id: El elemento div después del main con la clase scroll no tiene contenido y no está claro su propósito. Se podría eliminar o agregarle contenido y darle un estilo apropiado.
+
+Contenido:
+
+    Texto del encabezado: El texto del encabezado "Comodidad para tu vida" es un buen comienzo. Se podría considerar agregar un nombre de empresa o marca para darle más identidad a la página.
+    Accesibilidad: Las imagenes deberían tener atributos alt descriptivos para usuarios que utilizan lectores de pantalla.
+    Botones de compra: Se podría mejorar la experiencia de usuario agregando el nombre del producto al botón "Comprar" o usando un carrito de compras para gestionar los productos seleccionados.
+    Sección vacía: Considera agregar contenido a la última sección del main o eliminarla si no se va a utilizar.
+
+Código:
+
+    Cierre de etiquetas: Falta cerrar la etiqueta del script del header (</script>) y la etiqueta del main (</main>).
+    Mayúsculas en etiquetas: Las etiquetas HTML son en minúsculas (<button>, <section>, etc.).
+    Consistencia en case: Mantener la consistencia en el uso de mayúsculas y minúsculas para nombres de clase y elementos (scroll vs Scrol).
+    
+    FIGMA?
+    
+    NOTA: 55
