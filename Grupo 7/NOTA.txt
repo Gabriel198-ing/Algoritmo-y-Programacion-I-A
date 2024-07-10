@@ -1,0 +1,17 @@
+Recomendaciones para el código HTML:
+
+Estructura y organización:
+
+    El código HTML está bien estructurado y organizado, utilizando secciones (<section>) para agrupar el contenido temático y encabezados (<h2>, <h3>) para jerarquizar la información.
+    Se utiliza un encabezado (<header>) para el logotipo y el título principal, un pie de página (<footer>) para los derechos de autor y un menú de navegación (<nav>).
+    El código está indentado de manera correcta, lo que mejora la legibilidad.
+
+Contenido:
+
+    El contenido es informativo y atractivo, presentando la historia del juego Tetris, su popularidad y su impacto cultural de manera interesante.
+    Se utilizan imágenes y vídeos para ilustrar el contenido y hacerlo más dinámico.
+    El texto está bien organizado y utiliza párrafos, listas y citas para mejorar la legibilidad.
+    
+    se puede mejorar la estructura de las imagenes de la carpeta img
+    
+    NOTA: 90

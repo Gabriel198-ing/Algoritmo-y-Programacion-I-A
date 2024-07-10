@@ -1,0 +1,269 @@
+  /*-------------------------------------*/
+  /*--------------INICIO-----------------*/
+  /* ESTILO CSS PARA PÁGINA DE INICIO    */
+  /*-------------------------------------*/
+  /*-------------------------------------*/
+
+/**
+ * Estilos CSS para dar apariencia a la página
+ *
+ * fuente Lato desde Google Fonts y establece estilos básicos para la página
+ */
+ 
+ @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+*{
+   font-family: lato;
+   margin:0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+/*------------INICIO----------------*/
+/*--------ESTILO PARA HEADER--------*/
+/*----------------------------------*/
+
+header{
+  background-color: #776B5D;
+  color: #fff;
+  padding: 3px;
+}
+
+
+.header-header{
+  background-color: #D0C8BA;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+
+}
+
+.logo{
+  filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.555));
+}
+
+nav{
+  background-color: #776B5D;
+  color: #fff;
+  padding: 10px;
+  border-radius: 10px;
+  width: 290px;
+  height: auto;
+  text-decoration: none;
+
+}
+
+nav ul{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul :hover{
+  background-color: #554d43;
+  color: #fff;
+  margin: 2px;
+  border-radius: 10px;
+  width: 290px;
+  height: auto;
+  text-decoration: none;
+
+
+}
+
+nav ul li{
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a{
+  color: #fff;
+  text-decoration: none;
+}
+
+/*---------------FIN----------------*/
+/*--------ESTILO PARA HEADER--------*/
+/*----------------------------------*/
+
+
+/*-------------INICIO---------------*/
+/*----ESTILO PARA MAIN PRINCIPAL----*/
+/*----------------------------------*/
+
+.imagen-contenedor{
+    margin:0%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  .contenedor-principal{
+    display: grid;
+    grid-template-columns: 1fr;
+    /* 1 columnas para el contenido principal*/
+    gap: 20px;
+    padding: 20px 0px 0px 0px;
+    align-items: flex-start;
+  }
+  
+  .contenido-principal{
+    background-image: url("/img/Banner-principal.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:auto;
+    max-width: auto;
+    height:500px;
+    max-height: auto;
+  }
+
+  /*---------------FIN----------------*/
+  /*----ESTILO PARA MAIN PRINCIPAL----*/
+  /*----------------------------------*/
+
+
+
+
+/*-------------INICIO---------------*/
+/*---ESTILO PARA MAIN SECUNDARIO----*/
+/*----------------------------------*/
+
+.contenedor-secundario{
+
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    /* 3 columnas para el contenido principal*/
+    gap: 20px;
+    padding: 20px;
+  }
+
+.imagen-contenedor{
+
+    width: max-content;
+    height: auto;
+
+}
+
+.imagen-contenedor-history{
+    margin:0%;
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+}
+
+.titulo-dorado{
+
+    background: linear-gradient(to right, #202020 0%, #464646 50%, #202020 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: bolder;
+  
+  }
+
+  
+  .lista{
+    list-style: none;
+    list-style-image: url(/img/Icon.png);
+    margin-left: 30px;
+  }
+  
+  .titulo-sublista{
+    transition: color 0.5s ease;
+    font-size: 25px;
+    font-weight: bolder;
+  
+  }
+  
+  .titulo-sublista:hover{
+    background: #776B5D;
+    background-clip: text;
+    font-size: 28px;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: bolder;
+    transition: color 0.5s ease  
+  }
+  
+  .lista-none{
+    list-style: circle;
+    margin-left: 30px;
+  }
+  
+
+  .contenido-contenedor-dorado{
+
+    text-align: justify;
+    padding: 0px 15px 15px 15px;
+    }
+
+  /*--------------FIN-----------------*/
+  /*---ESTILO PARA MAIN SECUNDARIO----*/
+  /*----------------------------------*/
+
+
+/*------------INICIO----------------*/
+/*-------ESTILO PARA FOOTER---------*/
+/*----------------------------------*/
+
+footer{
+  
+    background-color: #776B5D;
+    color: #fff;
+    padding: 3px;
+  }
+  
+  .header-footer{
+    background-color: #D0C8BA;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+  
+  }
+  
+  
+  .fa{
+    background-color: #776B5D;
+    padding: 8px;
+    border-radius:10px;
+    color: white;
+  }
+  
+  .tw{
+    background-color: #776B5D;
+    padding: 8px;
+    border-radius:10px;
+    color: white;
+  }
+  
+  .in{
+    background-color: #776B5D;
+    padding: 8px;
+    border-radius:10px;
+    color: white;
+  }
+  
+  .section{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 40px;
+  }
+  
+  
+  .parrafo-final{
+    color: white;
+  }
+  
+  /*--------------FIN-----------------*/
+  /*-------ESTILO PARA FOOTER---------*/
+  /*----------------------------------*/
+  
+  
+  /*-------------------------------------*/
+  /*----------------FIN------------------*/
+  /*   ESTILO CSS PARA PÁGINA DE INICIO  */
+  /*-------------------------------------*/
+  /*-------------------------------------*/
+  
